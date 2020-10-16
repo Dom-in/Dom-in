@@ -1,5 +1,5 @@
 ### Hey there, I'm Dominik
-I started my developing in 2016/2017 with PHP, Html, css, lua, ejs and more!
+I started my developing in 2016/2017 with PHP, Html, css, lua, ejs, nodeJS and more!
 
 ### If you want to reach me out feel free to go on my social
 <h2 align="center">
