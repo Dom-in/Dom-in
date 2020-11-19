@@ -12,4 +12,4 @@ I started my developing in 2016/2017 with PHP, Html, css, lua, ejs, nodeJS and m
 I am starting being active dev on github 😎
 
 [![Dominik's github stats](https://github-readme-stats.vercel.app/api?username=dom-in)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dom-in&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
