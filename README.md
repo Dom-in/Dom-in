@@ -1,6 +1,6 @@
 ### Hi👋, I'm Dominik, a self-taught developer.
 - 🔭 I’m currently working on projects
-- 🌱 I’m currently Java & C#
+- 🌱 I’m currently learning Java & C#
 - 👯 I’m looking to collaborate on great projects
 - ⚡ Fun fact: Love being a dev 🤣
 - 
