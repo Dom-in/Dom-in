@@ -1,6 +1,5 @@
 ### Hi👋, I'm Dominik, a self-taught developer.
-- 🔭 I’m currently working on projects
-- 🌱 I’m currently learning Java & C#
+- 🔭 I’m currently working on own FiveM Script Store
 - ⚡ Fun fact: Love being a dev 🤣
 
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:dom-in"></a>
