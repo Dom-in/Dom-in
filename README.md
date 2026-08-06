@@ -9,9 +9,9 @@
 ### 🚀 About Me
 I'm a **self-taught developer** who thrives on turning ideas into reality through code. Whether it's building sleek web apps or diving into the nitty-gritty of backend logic, I love the grind of problem-solving and creating something *awesome*. When I'm not coding, you might find me chasing new tech trends or laughing at my own bugs. 🐛
 
-- 🔭 **Currently working on**: [Enforcer](https://enforcer.gg) - an all-in-one Discord bot!
+- 🔭 **Currently working on**: [IVDevs](https://github.com/IVDevs) - HappinessMP tools & scripts!
 - 🌱 **Learning**: Always exploring new frameworks and tools to level up my dev game.
-- ⚡ **Fun fact**: I code better with a coffee in one hand and a meme in the other. 😎
+- ⚡ **Fun fact**: I code better with a redbull in one hand and a meme in the other. 😎
 
 ---
 
